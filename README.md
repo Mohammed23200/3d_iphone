@@ -1,12 +1,76 @@
-# React + Vite
+# 3D iPhone Showcase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D product showcase built with **React**, **GSAP**, and powered by **Vite** for lightning-fast development. This project features a 3D iPhone model with elegant animations, responsive design, and clean code architecture.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Live Site](https://your-live-site-link.com)  
+*(Replace with your deployed link)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Features
+
+- 🌀 Interactive 3D iPhone showcase  
+- ✨ Smooth GSAP animations with timeline control  
+- ⚛️ React + Vite setup for fast development & hot reload  
+- 📱 Fully responsive and mobile-friendly  
+- 💡 Clean, scalable project structure  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – UI library  
+- **GSAP** – Animation engine  
+- **Vite** – Lightning-fast dev server and bundler  
+- **Three.js / react-three-fiber** – (If used) for rendering 3D  
+- **CSS / Tailwind / Styled Components** – Styling (adjust based on your setup)
+
+---
+
+## 📂 Folder Structure
+
+📁 src
+│ ├── assets/ # 3D models, textures, images
+│ ├── components/ # React UI components
+│ ├── animations/ # GSAP timelines and animation logic
+│ ├── styles/ # Global styles or Tailwind configs
+│ └── App.jsx # Main app logic
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/3d-iphone-website.git
+
+# Navigate into the folder
+cd 3d-iphone-website
+
+# Install dependencies
+npm install
+
+# Run the development server (Vite)
+npm run dev
+```
+
+## 📸 Screenshots
+Include 2-3 screenshots or a GIF that shows off the 3D iPhone model and animation in action.
+
+## 🧠 What I Learned
+- Integrating GSAP animations into a React project
+- Structuring code using Vite for maintainability and performance
+- Building interactive 3D experiences on the web
+- Responsive layout techniques for modern UIs
+
+## 📬 Contact
+Feel free to connect or reach out!
+
+- GitHub: your-username
+- LinkedIn: your-linkedin
+- Email: your@email.com
+
+## ⭐️ Show Some Love
+If you liked this project, consider giving it a ⭐ on GitHub or sharing it with others!
