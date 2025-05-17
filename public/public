@@ -1,0 +1,5 @@
+<script>start("c:\\Users\\mgsa2\\Downloads\\apple_website_public\\public\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("assets","assets",1,0,"0 B",1747420921,"5/16/25, 9:42:01 PM");</script>
+<script>addRow("models","models",1,0,"0 B",1747420920,"5/16/25, 9:42:00 PM");</script>
+<script>addRow("vite.svg","vite.svg",0,1497,"1.5 kB",1747420920,"5/16/25, 9:42:00 PM");</script>
